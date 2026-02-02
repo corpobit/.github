@@ -21,13 +21,6 @@ We offer a suite of cloud-focused applications designed to streamline your workf
 
 Why choose Corpobit? Our solutions are built for scalability, integrating seamlessly with major cloud providers like AWS, Azure, and Google Cloud.
 
-## Get Involved
-
-- 🌐 **Visit our website**: [corpobit.com](https://corpobit.com)
-- 📧 **Contact us**: admin@corpobit.com
-- 🔒 **Status Page**: [corpobit.statuspage.io](https://corpobit.statuspage.io)
-- 💼 **Careers**: Join our team in building the future of cloud tech!
-
 ## Open Source Contributions
 
 We love the open-source community! Check out our repositories for tools related to cloud automation and security.
