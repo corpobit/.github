@@ -6,7 +6,7 @@ At Corpobit, we simplify cloud operations with powerful and intuitive applicatio
 
 ## About Us
 
-Corpobit is a forward-thinking technology company dedicated to transforming how businesses manage their cloud infrastructure. We believe that seamless cloud operations should be accessible, secure, and efficient for teams of all sizes.
+Corpobit is a forward-thinking opensource community to transforming how businesses manage their cloud infrastructure. We believe that seamless cloud operations should be accessible, secure, and efficient for teams of all sizes.
 
 ### Our Mission
 To empower organizations by providing tools that enhance productivity while prioritizing top-tier security in the cloud era.
